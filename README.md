@@ -8,3 +8,5 @@
     ```
     npm i && npm run dev
     ```
+4.NodeJS version -> 18.14.2
+5.NPM version -> 9.5.0
